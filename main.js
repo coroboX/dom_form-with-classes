@@ -30,5 +30,5 @@ document.addEventListener('DOMContentLoaded', () => {
         console.log('Invalid input: ' + input.getName());
     });
 
-    form.render(document.getElementById('form-container'));
+    form.render(document.getElementById('form_container'));
 });
